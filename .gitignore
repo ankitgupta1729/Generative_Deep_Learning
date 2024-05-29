@@ -4,8 +4,8 @@ run/compose/*
 run/paint/*
 run/write/*
 run/vae/*
-
-
+data1/*
+0001_digits/*
 
 archive/*
 
